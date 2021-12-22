@@ -5,26 +5,6 @@
 
 [![Spotify](https://drsp.vercel.app/api/spotify)](https://open.spotify.com/user/dy9imxjq64mvr6nww4ki1gqsy)
 
-<style>
-    .stacks {
-        display: flex;
-        gap: 12px;
-        flex-wrap: wrap;
-    }
-
-    .stacks a {
-        width: mic-content;
-        padding: 8px;
-        flex: 0 1 auto;
-    }
-
-    .gh-cards {
-        display: flex;
-        flex-direction: column;
-        gap: 16px;
-    }
-</style>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" class="stacks"> 
     <a href="https://angular.io" target="_blank"> 
@@ -154,6 +134,9 @@
 
 <p class="gh-cards">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=root5427&theme=dark&show_icons=true&locale=en" alt="root5427" />
+    <br />
+    &nbsp;
+    <br />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root5427&layout=compact" alt="Top langs">
 </p>
 
