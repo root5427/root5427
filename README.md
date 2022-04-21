@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **devixrootix@gmail.com**
 
-[![Spotify](https://drsp.vercel.app/api/spotify)](https://open.spotify.com/user/dy9imxjq64mvr6nww4ki1gqsy)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" class="stacks"> 
     <a href="https://angular.io" target="_blank"> 
