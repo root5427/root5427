@@ -131,22 +131,4 @@
                 alt="tailwindcss" width="40" height="40" /> 
         </a>
     </p>
-</div
-
-<table>
-    <tr>
-        <td>
-            <img align="left" src="https://github-readme-stats.vercel.app/api?username=root5427&theme=dark&show_icons=true&locale=en" alt="root5427" />
-        </td>
-        <td rowspan="2">
-            <a href="https://app.daily.dev/Devix" target="_blank">
-                <img src="https://api.daily.dev/devcards/ab5f195d049e4d7e9a1b804c2977870b.png?r=g5h" width="400" align="right" alt="Devix Rootix's Dev Card"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root5427&layout=compact" alt="Top langs">
-        </td>
-    </tr>
-</table>
+</div>
