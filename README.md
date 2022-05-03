@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **devixrootix@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-
 <div align="left">
     <p alignt="left"> 
         <a href="https://angular.io" target="_blank"> 
